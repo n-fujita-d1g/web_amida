@@ -33,6 +33,7 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/osusume/forfun/02_amida/',
   define: { 'process.env': {} },
   resolve: {
     alias: {
