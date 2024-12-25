@@ -1,7 +1,7 @@
 <template>
-  <HelloWorld />
+  <AmidaTool />
 </template>
 
 <script lang="ts" setup>
-import HelloWorld from '@/components/HelloWorld.vue'
+import AmidaTool from '@/components/AmidaTool.vue'
 </script>
